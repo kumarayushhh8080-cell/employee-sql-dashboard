@@ -25,9 +25,10 @@ SQL Operations Performed
 
 5. Constraints Applied
 	•	Added CHECK constraint on salary (salary > 15000)
+DASHBOARD-https://github.com/kumarayushhh8080-cell/employee-sql-dashboard/blob/main/Employees%20data%20dashboard.png
 
-6. Data Deletion
+7. Data Deletion
 	•	Deleted specific employee records
 
-7. Sorting & Filtering
+8. Sorting & Filtering
 	•	Used ORDER BY and WHERE conditions for analysis
